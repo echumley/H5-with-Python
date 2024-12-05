@@ -1,0 +1,5 @@
+myenv/
+openPMD-example-datasets/
+data00000395.h5
+output.txt
+.DS_store
